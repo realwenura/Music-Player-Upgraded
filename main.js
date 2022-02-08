@@ -28,32 +28,32 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Viramayak",
-     path: "m1.mp3",
-     img: "img1.jpg",
+     path: "music/m1.mp3",
+     img: "img/img1.jpg",
      singer: "Bashi Dewanga"
    },
    {
      name: "Pem Thalam",
-     path: "m2.mp3",
-     img: "img2.jpg",
+     path: "music/m2.mp3",
+     img: "img/img2.jpg",
      singer: "Gavin Andrew"
    },
    {
      name: "Sanda wage Pena",
-     path: "m3.mp3",
-     img: "img3.jpg",
+     path: "music/m3.mp3",
+     img: "img/img3.jpg",
      singer: "Hana Shafa"
    },
    {
      name: "Dawasak ewi",
-     path: "m4.mp3",
-     img: "img4.jpg",
+     path: "music/m4.mp3",
+     img: "img/img4.jpg",
      singer: "Piyath Rajapaksha"
    },
    {
      name: "Kohe Ho Ma",
-     path: "m5.mp3",
-     img: "img5.jpg",
+     path: "music/m5.mp3",
+     img: "img/img5.jpg",
      singer: "Bashi Dewanga"
    }
 ];
