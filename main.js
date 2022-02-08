@@ -55,6 +55,14 @@ let All_song = [
      path: "music/m5.mp3",
      img: "img/img5.jpg",
      singer: "Bashi Dewanga"
+   },
+   {
+
+	name: "Hanthane",
+	path: "music/m.mp3",
+	img: "img/img6.jpg",
+	singer: "Dayan Hewage"
+
    }
 ];
 
