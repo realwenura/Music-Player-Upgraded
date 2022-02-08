@@ -59,7 +59,7 @@ let All_song = [
    {
 
 	name: "Hanthane",
-	path: "music/m.mp3",
+	path: "music/m6.mp3",
 	img: "img/img6.jpg",
 	singer: "Dayan Hewage"
 
